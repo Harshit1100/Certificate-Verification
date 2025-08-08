@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/testcertificates/page": "app/testcertificates/page.js",
+  "/verifyresults/page": "app/verifyresults/page.js",
+  "/api/verify-certificate/route": "app/api/verify-certificate/route.js",
+  "/about/page": "app/about/page.js"
+}
